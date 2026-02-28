@@ -24,7 +24,6 @@ website/node_modules
 *.test
 *.iml
 
-go.sum
 vendor/
 
 # Test exclusions
