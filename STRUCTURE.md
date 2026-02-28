@@ -1,7 +1,7 @@
 # Project Structure
 
 ```
-tf-curious/
+terraform-provider-curious/
 ├── .github/
 │   └── workflows/
 │       ├── test.yml              # CI workflow for testing
